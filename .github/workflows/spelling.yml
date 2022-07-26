@@ -1,4 +1,4 @@
-name: Check Spelling
+name: Check Spelling (prerelease)
 
 # Updating pull request branches is managed via comment handling.
 # For details, see: https://github.com/check-spelling/check-spelling/wiki/Feature:-Update-expect-list
